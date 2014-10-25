@@ -61,7 +61,7 @@ void loop(){
     }
     
   }
-}
+
 
 
 //method to get distance from the nearest object
