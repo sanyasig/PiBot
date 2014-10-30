@@ -51,16 +51,15 @@ void loop(){
         activate_autonomous_mode();
       }
     }
-      // do what ever neede to automatic
-    }
+  }
     
-    if(Orders[Contorl_Mode] == 'm'){
+  if(Orders[Contorl_Mode] == 'm'){
       current_mode = 'm';
       
       // I have the power,, no need of stupid ord
-    }
-    
   }
+    
+}
 
 
 
